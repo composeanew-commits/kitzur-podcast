@@ -1,1 +1,26 @@
+name: Update podcast feed
 
+on:
+  schedule:
+    - cron: "0 */4 * * *"   # every 4 hours
+  workflow_dispatch:         # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4
+      - run: python build_feed.py
+      - name: Save changes
+        run: |
+          git config user.name "podcast-feed-bot"
+          git config user.email "podcast-feed-bot@users.noreply.github.com"
+          git add feed.xml episodes.json
+          git diff --cached --quiet || (git commit -m "Update podcast feed" && git push)
