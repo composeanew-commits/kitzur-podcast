@@ -30,7 +30,7 @@ SHOW_DESCRIPTION = (
     "and tefillah."
 )
 AUTHOR = "Rabbi Shmuel Weiner"
-OWNER_EMAIL = "CHANGE-ME@example.com"   # <-- put your real email here (Apple/Spotify use it to verify)
+OWNER_EMAIL = "composeanew@gmail.com"   # <-- put your real email here (Apple/Spotify use it to verify)
 LANGUAGE = "en"
 COVER_FILE = "cover.jpg"
 EPISODE_DESCRIPTION = (
