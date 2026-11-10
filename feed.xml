@@ -5,7 +5,7 @@
     <link>https://zntshul.org/shiurim-2/</link>
     <description>A short daily shiur on the Kitzur Shulchan Aruch with Rabbi Shmuel Weiner of Khal Zichron Nosson Tzvi in Jerusalem. Each episode takes a few simanim and explains the halachos clearly and practically, in about 5 to 20 minutes. The series starts at the beginning, with the halachos of waking up and getting dressed, and moves through the day: washing, tefilin, tzitzis, mezuzah, brachos, and tefillah.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 04:42:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 02:33:22 +0000</lastBuildDate>
     <atom:link href="https://composeanew-commits.github.io/kitzur-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Rabbi Shmuel Weiner</itunes:author>
     <itunes:summary>A short daily shiur on the Kitzur Shulchan Aruch with Rabbi Shmuel Weiner of Khal Zichron Nosson Tzvi in Jerusalem. Each episode takes a few simanim and explains the halachos clearly and practically, in about 5 to 20 minutes. The series starts at the beginning, with the halachos of waking up and getting dressed, and moves through the day: washing, tefilin, tzitzis, mezuzah, brachos, and tefillah.</itunes:summary>
@@ -19,6 +19,18 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Kitzur Shulchan Aruch 19:8-11 | Halachos of Shmonei Esrei</title>
+      <description>Kitzur Shulchan Aruch 19:8-11 | Halachos of Shmonei Esrei
+
+Daily Kitzur Shulchan Aruch shiur by Rabbi Shmuel Weiner, Khal Zichron Nosson Tzvi, Jerusalem.</description>
+      <enclosure url="https://zntshul.org/wp-content/uploads/2026/11/36-Kitzur-Siman-19-sif-8-11-Halachos-of-shmonei-esrei.mp3" length="4053932" type="audio/mpeg" />
+      <guid isPermaLink="false">https://zntshul.org/wp-content/uploads/2026/11/36-Kitzur-Siman-19-sif-8-11-Halachos-of-shmonei-esrei.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>8:27</itunes:duration>
+      <itunes:episode>36</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Kitzur Shulchan Aruch 19:1-7 | Halachos of Shmonei Esrei</title>
       <description>Kitzur Shulchan Aruch 19:1-7 | Halachos of Shmonei Esrei
