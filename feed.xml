@@ -5,7 +5,7 @@
     <link>https://zntshul.org/shiurim-2/</link>
     <description>A short daily shiur on the Kitzur Shulchan Aruch with Rabbi Shmuel Weiner of Khal Zichron Nosson Tzvi in Jerusalem. Each episode takes a few simanim and explains the halachos clearly and practically, in about 5 to 20 minutes. The series starts at the beginning, with the halachos of waking up and getting dressed, and moves through the day: washing, tefilin, tzitzis, mezuzah, brachos, and tefillah.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 00:53:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 11:51:58 +0000</lastBuildDate>
     <atom:link href="https://composeanew-commits.github.io/kitzur-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Rabbi Shmuel Weiner</itunes:author>
     <itunes:summary>A short daily shiur on the Kitzur Shulchan Aruch with Rabbi Shmuel Weiner of Khal Zichron Nosson Tzvi in Jerusalem. Each episode takes a few simanim and explains the halachos clearly and practically, in about 5 to 20 minutes. The series starts at the beginning, with the halachos of waking up and getting dressed, and moves through the day: washing, tefilin, tzitzis, mezuzah, brachos, and tefillah.</itunes:summary>
@@ -19,6 +19,18 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Kitzur Shulchan Aruch 21:3-10 | Halachos of Tashlumim</title>
+      <description>Kitzur Shulchan Aruch 21:3-10 | Halachos of Tashlumim
+
+Daily Kitzur Shulchan Aruch shiur by Rabbi Shmuel Weiner, Khal Zichron Nosson Tzvi, Jerusalem.</description>
+      <enclosure url="https://zntshul.org/wp-content/uploads/2026/11/40-Kitzur-Siman-21-sif-3-10-Halachos-of-Tashlumim.mp3" length="3794732" type="audio/mpeg" />
+      <guid isPermaLink="false">https://zntshul.org/wp-content/uploads/2026/11/40-Kitzur-Siman-21-sif-3-10-Halachos-of-Tashlumim.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>7:54</itunes:duration>
+      <itunes:episode>40</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Kitzur Shulchan Aruch 20:9-12 , 21:1-2 | Halachos of Chazaras Ha’shatz and Tashlumim</title>
       <description>Kitzur Shulchan Aruch 20:9-12 , 21:1-2 | Halachos of Chazaras Ha’shatz and Tashlumim
